@@ -1,1 +1,3 @@
-
+spaCy
+PyPDF2
+scikit-learn
